@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Eve Online Char Status
+Comment=Shows important stuff about your EVE char right on your desktop!
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=office-chart-bar-percentage-icon
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Iman Karim
+X-KDE-PluginInfo-Email=ikarim2s@smail.inf.fh-brs.de
+X-KDE-PluginInfo-Name=plasmoeve
+X-KDE-PluginInfo-Version=1.4
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-Category=Internet
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
